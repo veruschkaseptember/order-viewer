@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "orderId": "ORD-001",
+    "customer": "John Smith",
+    "status": "Processing",
+    "total": 1250.0,
+    "created": "2025-06-15T10:30:00Z",
+    "lineItems": [
+      {
+        "id": 1,
+        "productName": "Wireless Bluetooth Headphones",
+        "quantity": 2,
+        "unitPrice": 450.0,
+        "total": 900.0
+      },
+      {
+        "id": 2,
+        "productName": "Phone Case",
+        "quantity": 1,
+        "unitPrice": 350.0,
+        "total": 350.0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "orderId": "ORD-002",
+    "customer": "Sarah Johnson",
+    "status": "Shipped",
+    "total": 890.5,
+    "created": "2025-06-14T14:15:00Z",
+    "lineItems": [
+      {
+        "id": 3,
+        "productName": "Laptop Stand",
+        "quantity": 1,
+        "unitPrice": 890.5,
+        "total": 890.5
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "orderId": "ORD-003",
+    "customer": "Mike Davis",
+    "status": "Pending",
+    "total": 2150.75,
+    "created": "2025-06-17T09:45:00Z",
+    "lineItems": [
+      {
+        "id": 4,
+        "productName": "Gaming Keyboard",
+        "quantity": 1,
+        "unitPrice": 1200.0,
+        "total": 1200.0
+      },
+      {
+        "id": 5,
+        "productName": "Gaming Mouse",
+        "quantity": 1,
+        "unitPrice": 800.75,
+        "total": 800.75
+      },
+      {
+        "id": 6,
+        "productName": "Mouse Pad",
+        "quantity": 1,
+        "unitPrice": 150.0,
+        "total": 150.0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "orderId": "ORD-004",
+    "customer": "Emma Wilson",
+    "status": "Cancelled",
+    "total": 675.25,
+    "created": "2025-06-12T16:20:00Z",
+    "lineItems": [
+      {
+        "id": 7,
+        "productName": "Tablet Case",
+        "quantity": 1,
+        "unitPrice": 275.25,
+        "total": 275.25
+      },
+      {
+        "id": 8,
+        "productName": "Screen Protector",
+        "quantity": 2,
+        "unitPrice": 200.0,
+        "total": 400.0
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "orderId": "ORD-005",
+    "customer": "James Brown",
+    "status": "Processing",
+    "total": 3200.0,
+    "created": "2025-06-16T11:10:00Z",
+    "lineItems": [
+      {
+        "id": 9,
+        "productName": "4K Monitor",
+        "quantity": 1,
+        "unitPrice": 2800.0,
+        "total": 2800.0
+      },
+      {
+        "id": 10,
+        "productName": "HDMI Cable",
+        "quantity": 2,
+        "unitPrice": 200.0,
+        "total": 400.0
+      }
+    ]
+  }
+]

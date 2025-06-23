@@ -1,0 +1,7 @@
+organization=veruschka
+projectKey=veruschka_veruschka
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.64661
+dashboardUrl=https://sonarcloud.io/dashboard?id=veruschka_veruschka
+ceTaskId=AZealdSXkuwPcnsfP_42
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZealdSXkuwPcnsfP_42
