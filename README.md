@@ -1,18 +1,5 @@
 # Order Viewer Dashboard
 
-A professional, modern order management dashboard built with Next.js 15, featuring real-time data updates, advanced filtering, and a responsive UI.
-
-Dear reviewer,
-
-Thank you for taking the time to review my submission. I have unfortunetly been very ill and this is not my best work.
-There are various areas that I would've spent more time on, they include:
-
-- refactoring
-- architecture e.g. folder structure set to be feature based and grouping data layer, components, routes, utils for each feature
-- I have not completed my testing - unit and covereage (80% required)
-- Generally I use AI to get through the grunt work, but in this case to save time I used it more than I usually would for documentation and tests. Usually write my own docs and tests
-- Usually I commit after each feature or bug and once tested and reviewed will push. In this case I do not follow git best practices
-
 ![Order Viewer Dashboard](https://img.shields.io/badge/Next.js-15-black) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-38bdf8) ![Supabase](https://img.shields.io/badge/Supabase-2.50-3ecf8e)
 
 ## ✨ Features
